@@ -1,0 +1,210 @@
+{
+    "AL": {
+        "population": 4903185,
+        "name": "Alabama"
+    },
+    "AK": {
+        "population": 731545,
+        "name": "Alaska"
+    },
+    "AZ": {
+        "population": 7278717,
+        "name": "Arizona"
+    },
+    "AR": {
+        "population": 3017804,
+        "name": "Arkansas"
+    },
+    "CA": {
+        "population": 39512223,
+        "name": "California"
+    },
+    "CO": {
+        "population": 5758736,
+        "name": "Colorado"
+    },
+    "CT": {
+        "population": 3565287,
+        "name": "Connecticut"
+    },
+    "DE": {
+        "population": 973764,
+        "name": "Delaware"
+    },
+    "DC": {
+        "population": 705749,
+        "name": "District of Columbia"
+    },
+    "FL": {
+        "population": 21477737,
+        "name": "Florida"
+    },
+    "GA": {
+        "population": 10617423,
+        "name": "Georgia"
+    },
+    "HI": {
+        "population": 1415872,
+        "name": "Hawaii"
+    },
+    "ID": {
+        "population": 1787065,
+        "name": "Idaho"
+    },
+    "IL": {
+        "population": 12671821,
+        "name": "Illinois"
+    },
+    "IN": {
+        "population": 6732219,
+        "name": "Indiana"
+    },
+    "IA": {
+        "population": 3155070,
+        "name": "Iowa"
+    },
+    "KS": {
+        "population": 2913314,
+        "name": "Kansas"
+    },
+    "KY": {
+        "population": 4467673,
+        "name": "Kentucky"
+    },
+    "LA": {
+        "population": 4648794,
+        "name": "Louisiana"
+    },
+    "ME": {
+        "population": 1344212,
+        "name": "Maine"
+    },
+    "MD": {
+        "population": 6045680,
+        "name": "Maryland"
+    },
+    "MA": {
+        "population": 6892503,
+        "name": "Massachusetts"
+    },
+    "MI": {
+        "population": 9986857,
+        "name": "Michigan"
+    },
+    "MN": {
+        "population": 5639632,
+        "name": "Minnesota"
+    },
+    "MS": {
+        "population": 2976149,
+        "name": "Mississippi"
+    },
+    "MO": {
+        "population": 6137428,
+        "name": "Missouri"
+    },
+    "MT": {
+        "population": 5639632,
+        "name": "Montana"
+    },
+    "NE": {
+        "population": 1934408,
+        "name": "Nebraska"
+    },
+    "NV": {
+        "population": 3080156,
+        "name": "Nevada"
+    },
+    "NH": {
+        "population": 1359711,
+        "name": "New Hampshire"
+    },
+    "NJ": {
+        "population": 8882190,
+        "name": "New Jersey"
+    },
+    "NM": {
+        "population": 2096829,
+        "name": "New Mexico"
+    },
+    "NY": {
+        "population": 19453561,
+        "name": "New York"
+    },
+    "NC": {
+        "population": 10488084,
+        "name": "North Carolina"
+    },
+    "ND": {
+        "population": 762062,
+        "name": "North Dakota"
+    },
+    "OH": {
+        "population": 11689100,
+        "name": "Ohio"
+    },
+    "OK": {
+        "population": 3956971,
+        "name": "Oklahoma"
+    },
+    "OR": {
+        "population": 4217797,
+        "name": "Oregon"
+    },
+    "PA": {
+        "population": 12801989,
+        "name": "Pennsylvania"
+    },
+    "PR": {
+        "population": 3193694,
+        "name": "Puerto Rico"
+    },
+    "RI": {
+        "population": 1059361,
+        "name": "Rhode Island"
+    },
+    "SC": {
+        "population": 5148714,
+        "name": "South Carolina"
+    },
+    "SD": {
+        "population": 884659,
+        "name": "South Dakota"
+    },
+    "TN": {
+        "population": 6829174,
+        "name": "Tennessee"
+    },
+    "TX": {
+        "population": 28995881,
+        "name": "Texas"
+    },
+    "UT": {
+        "population": 3205958,
+        "name": "Utah"
+    },
+    "VT": {
+        "population": 623989,
+        "name": "Vermont"
+    },
+    "VA": {
+        "population": 8535519,
+        "name": "Virginia"
+    },
+    "WA": {
+        "population": 7614893,
+        "name": "Washington"
+    },
+    "WV": {
+        "population": 1792147,
+        "name": "West Virginia"
+    },
+    "WI": {
+        "population": 5822434,
+        "name": "Wisconsin"
+    },
+    "WY": {
+        "population": 578759,
+        "name": "Wyoming"
+    }
+}
