@@ -70,9 +70,16 @@ class App extends React.Component {
     };
 
     const formatter = (cell) => {
-      return cell;
-      // return cell.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); 
+      return cell.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); 
     }
+
+    const numberSort = (a, b, order) => {
+      if (order === "asc") {
+        return parseInt(b) - parseInt(a);
+      }
+
+      return parseInt(a) - parseInt(b);
+    };
 
     const mdbTable = {
       columns: [
@@ -92,6 +99,7 @@ class App extends React.Component {
           text: "New Cases",
           dataField: "newCases",
           sort: true,
+          sortFunc: (a, b, order) => numberSort(a, b, order),
           headerStyle,
           formatter
         },
@@ -99,6 +107,7 @@ class App extends React.Component {
           text: "Total Cases",
           dataField: "totalCases",
           sort: true,
+          sortFunc: (a, b, order) => numberSort(a, b, order),
           headerStyle,
           formatter
         },
@@ -106,6 +115,7 @@ class App extends React.Component {
           text: "New Cases per 1 Million",
           dataField: "newPerMil",
           sort: true,
+          sortFunc: (a, b, order) => numberSort(a, b, order),
           headerStyle,
           formatter
         },
@@ -113,6 +123,7 @@ class App extends React.Component {
           text: "Total Cases per 1 Million",
           dataField: "totPerMil",
           sort: true,
+          sortFunc: (a, b, order) => numberSort(a, b, order),
           headerStyle,
           formatter
         },
@@ -120,6 +131,7 @@ class App extends React.Component {
           text: "Population",
           dataField: "population",
           sort: true,
+          sortFunc: (a, b, order) => numberSort(a, b, order),
           headerStyle,
           formatter
         }
