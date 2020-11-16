@@ -70,7 +70,8 @@ class App extends React.Component {
     };
 
     const formatter = (cell) => {
-      return cell.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); 
+      return cell;
+      // return cell.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ","); 
     }
 
     const mdbTable = {
